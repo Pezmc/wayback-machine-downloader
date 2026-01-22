@@ -5,12 +5,18 @@
 
 Download an entire website from the Internet Archive Wayback Machine.
 
+## ⚠️ Project Status
+
+**Note:** This repository appears to be no longer actively maintained. For an actively maintained fork with additional features and bug fixes, please see [StrawberryMaster/wayback-machine-downloader](https://github.com/StrawberryMaster/wayback-machine-downloader).
+
 ## Installation
 
 You need to install Ruby on your system (>= 1.9.2) - if you don't already have it.
 Then run:
 
     gem install wayback_machine_downloader
+
+**Note:** The `gem install wayback_machine_downloader` command installs the original version of this gem, which may not receive updates. If you're looking for the latest features and bug fixes, consider checking out the maintained fork mentioned above.
 
 **Tip:** If you run into permission errors, you might have to add `sudo` in front of this command.
 
